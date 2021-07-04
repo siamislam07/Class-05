@@ -1,0 +1,24 @@
+h1{
+	color: tomato;
+}
+p{
+	color: blue;
+}
+.first_u{
+	color: tomato;
+}
+#first{
+	color:skyblue;
+}
+.first{
+	color: yellow;
+}
+.second{
+	background-color: black;
+}
+.third{
+	font-style: italic;
+}
+.fourth{
+	background-color: yellow
+}
